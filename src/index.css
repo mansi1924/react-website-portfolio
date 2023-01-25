@@ -131,7 +131,7 @@ img{
         margin: 2rem;
     }
 }
-@media screen and (min-width:1200px){
+@media screen and (max-width:1200px){
     section{
         margin: 3rem;
     }
