@@ -62,7 +62,7 @@ h2{
     font-size: 2rem;
 }
 section{
-    margin: 8rem;
+    /* margin: 8rem; */
 }
 
 section > h2, section > h5{
