@@ -44,7 +44,7 @@ const About = () => {
           "We, TDI Online Services are a professionally managed organization, engaged in service providing, Digital Marketing, Bulk SMS, e-Mail, Voice Call, Education Software, CRM Software, HRM App, Call Management Software. To finish these services with perfection, we work in close association with our customers and understand their precise necessities and demands to serve them, accordingly. Our offered services are enormously admired by our customers for their reliability, timely-execution, and affordable prices. These services are finished by industry certified professionals who follow all the rules and regulations of industry. Our team comprises of experts who are highly well-informed to offer top services. In addition, our services are finished after understanding the precise necessities of the consumer in order to offer the perfect solution. Hence, we have attained our organization goals within prearranged time period"
           </p>
 
-          <a href="#contact" className="btn">Let's Talk</a>
+          <a href="tel:+9694037795" className="btn">Let's Talk</a>
         </div>
       </div>
     </section>

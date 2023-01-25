@@ -61,9 +61,7 @@ h1{
 h2{
     font-size: 2rem;
 }
-section{
-    /* margin: 8rem; */
-}
+
 
 section > h2, section > h5{
     text-align: center;
@@ -138,7 +136,7 @@ img{
 }
 @media screen and (max-width:1400px) {
     section{
-        margin: 5rem;
+        margin: 2rem;
     }
 }
 @media screen and (max-width:600px) {
