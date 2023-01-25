@@ -7,26 +7,24 @@ import {IoLogoTwitter} from 'react-icons/io'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>MANSI</a>
+      <a href="#" className='footer__logo'>TDI Online Services</a>
+      <h5 className='footer__add'>B 200, Near Janta Store Circle, Bapu Nagar, Jaipur</h5><br/>
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
         <li><a href="#about">About</a></li>
-        <li><a href="#experience">Experience</a></li>
-        <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testimonials">Testimonials</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
 
       <div className='footer__socials'>
-        <a href='https://facebook.com'><FaFacebookF/></a>
-        <a href='https://instagram.com'><FiInstagram/></a>
-        <a href='https://twitter.com'><IoLogoTwitter/></a>
+        <a href='https://www.facebook.com/thedigitalindia.in/'><FaFacebookF/></a>
+        <a href='https://www.instagram.com/thedigital_india'><FiInstagram/></a>
+        <a href='https://www.facebook.com/thedigitalindia.in/'><IoLogoTwitter/></a>
       </div>
 
       <div className='footer__copyright'>
-        <small>&copy; MANSI gupta. All rights reserved </small>
+        <small>&copy; TDIonlineservices. All rights reserved </small>
       </div>
     </footer>
   )

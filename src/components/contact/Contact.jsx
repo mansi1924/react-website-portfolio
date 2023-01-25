@@ -18,7 +18,7 @@ const Contact = () => {
   };
   return (
     <section id="contact">
-      <h5>Get In Touch</h5>
+      <br/><h5>Get In Touch</h5>
       <h2>Contact Me</h2>
 
       <div className="container contact__container">
@@ -26,20 +26,20 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className='contact__option-icons'/>
             <h4>Email</h4>
-            <h5>mansigup1907@gmail.com</h5>
-            <a href="mailto:mansigup1907@gmail.com" target="_blank">Send a message</a>
+            <h5>info@thedigitalindia.in</h5>
+            <a href="mailto:info@thedigitalindia.in" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
             <RiMessengerLine className='contact__option-icons' />
             <h4>Messenger</h4>
-            <h5>mansigup1907</h5>
-            <a href="https://m.me/mansi.gupta" target="_blank">Send a message</a>
+            <h5>TDI online services</h5>
+            <a href="https://www.linkedin.com/in/thedigitalindia/" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icons' />
             <h4>WhatsApp</h4>
-            <h5>9351915098</h5>
-            <a href="https://ap.whatsapp.com/send?phone=+919351915098" target="_blank">Send a message</a>
+            <h5>8751878878</h5>
+            <a href="https://ap.whatsapp.com/send?phone=+918751878878" target="_blank">Send a message</a>
           </article>
         </div>
         {/* end of contact options */}
