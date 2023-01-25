@@ -729,7 +729,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG33} alt="" />
           </div>
-          <h3>Jewellary Website</h3>
+          <h3>Jewellery Website</h3>
           <div className="portfolio__item-cta">
             <a href="https://indiangemsandjewels.in/" className="btn">
             Visit Now

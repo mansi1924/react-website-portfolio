@@ -19,7 +19,7 @@ const Contact = () => {
   return (
     <section id="contact">
       <br/><h5>Get In Touch</h5>
-      <h2>Contact Me</h2>
+      <h2>Contact Us</h2>
 
       <div className="container contact__container">
         <div className="contact__options">
@@ -30,16 +30,10 @@ const Contact = () => {
             <a href="mailto:info@thedigitalindia.in" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
-            <RiMessengerLine className='contact__option-icons' />
-            <h4>Messenger</h4>
-            <h5>TDI online services</h5>
-            <a href="https://www.linkedin.com/in/thedigitalindia/" target="_blank">Send a message</a>
-          </article>
-          <article className="contact__option">
             <BsWhatsapp className='contact__option-icons' />
             <h4>WhatsApp</h4>
             <h5>8751878878</h5>
-            <a href="https://ap.whatsapp.com/send?phone=+918751878878" target="_blank">Send a message</a>
+            <a href="https://wa.me/8751878878" target="_blank">Send a message</a>
           </article>
         </div>
         {/* end of contact options */}
