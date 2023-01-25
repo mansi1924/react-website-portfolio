@@ -32,7 +32,7 @@ html {
 ::-webkit-scrollbar {
     display: none;
 }
-
+/* bs  */
 body {
     font-family: 'Poppins', sans-serif;
     background: var(--color-bg-variant);
