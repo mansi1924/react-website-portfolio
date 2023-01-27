@@ -5,6 +5,8 @@ import {FiInstagram} from 'react-icons/fi'
 import {IoLogoTwitter} from 'react-icons/io'
 import {TfiGoogle} from 'react-icons/tfi'
 import {BsPinterest} from 'react-icons/bs'
+import {BsLinkedin} from 'react-icons/bs'
+import {BsWhatsapp} from 'react-icons/bs'
 
 const Footer = () => {
   return (
