@@ -276,10 +276,10 @@ const Portfolio = () => {
           </div>
           <h3>Scrap Collection Partner App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://play.google.com/store/apps/details?id=com.cgi.cleanandgreenindia.clean_and_green_india" className="btn">
+            <a href="https://play.google.com/store/apps/details?id=com.cleanandgreenindia.cgi_shop_partner" className="btn">
               Visit Now
             </a>
-            <a href="https://play.google.com/store/apps/details?id=com.cgi.cleanandgreenindia.clean_and_green_india" className="btn btn-primary" target="_blank">
+            <a href="https://play.google.com/store/apps/details?id=com.cleanandgreenindia.cgi_shop_partner" className="btn btn-primary" target="_blank">
               Live Demo
             </a>
           </div>

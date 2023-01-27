@@ -3,6 +3,8 @@ import './footer.css'
 import {FaFacebookF} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
 import {IoLogoTwitter} from 'react-icons/io'
+import {TfiGoogle} from 'react-icons/tfi'
+import {BsPinterest} from 'react-icons/bs'
 
 const Footer = () => {
   return (
@@ -19,8 +21,12 @@ const Footer = () => {
 
       <div className='footer__socials'>
         <a href='https://www.facebook.com/thedigitalindia.in/'><FaFacebookF/></a>
-        <a href='https://www.instagram.com/thedigital_india'><FiInstagram/></a>
-        <a href='https://www.facebook.com/thedigitalindia.in/'><IoLogoTwitter/></a>
+        <a href='https://www.instagram.com/thedigitalindia.in/'><FiInstagram/></a>
+        <a href='https://twitter.com/thdigitalindia'><IoLogoTwitter/></a>
+        <a href="https://wa.me/8751878878" target="_blank"><BsWhatsapp/></a>
+        <a href="https://www.linkedin.com/in/thedigitalindia/" target="_blank"><BsLinkedin/></a>
+        <a href="https://www.tdionlineservices.in/" target="_blank"><TfiGoogle/></a>
+        <a href="https://in.pinterest.com/thedigitalindia_in/" target="_blank"><BsPinterest/></a>
       </div>
 
       <div className='footer__copyright'>
