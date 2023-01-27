@@ -35,5 +35,5 @@ const Footer = () => {
     </footer>
   )
 }
-
+// whathappened
 export default Footer
