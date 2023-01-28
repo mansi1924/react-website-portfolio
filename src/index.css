@@ -61,7 +61,10 @@ h1{
 h2{
     font-size: 2rem;
 }
-
+ 
+section{
+    margin: 8rem;
+}
 
 section > h2, section > h5{
     text-align: center;
@@ -125,27 +128,16 @@ img{
     section{
         margin-top: 6rem;
     }
-    section{
-        margin: 2rem;
-    }
+    
 }
-@media screen and (max-width:1200px){
-    section{
-        margin: 3rem;
-    }
-}
-@media screen and (max-width:1400px) {
-    section{
-        margin: 2rem;
-    }
-}
+
 @media screen and (max-width:600px) {
     .container{
         width: var(--container-width-sm);
     }
     section{
         margin: 0;
-        margin-top:2rem
+        /* margin-top:2rem */
     }
     section > h2 {
         margin-bottom: 2rem;
