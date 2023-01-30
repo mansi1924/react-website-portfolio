@@ -39,8 +39,6 @@ import IMG36 from '../../assets/53661a0c-252a-4a87-99f1-3fc0937c31d6.jpeg';
 import IMG37 from "../../assets/b5f71c98-2c11-4baa-9440-50d387691668.jpeg";
 import IMG38 from '../../assets/bad69a87-8f1c-4cde-ad4f-e91ceb0dcb7d.jpeg';
 import IMG39 from '../../assets/sofware king logo new.jpg';
-import IMG40 from '../../assets/coming-removebg-preview.png';
-import IMG41 from '../../assets/coming-removebg-preview.png';
 
 const Portfolio = () => {
   return (
@@ -533,7 +531,6 @@ const Portfolio = () => {
           </div>
         </article>
         <article className="portfolio__item">
-        <img src={IMG41} alt="" className="coming__soon_1"/>
           <div className="portfolio__item-image">
             <img src={IMG18} alt="" />
           </div>
@@ -548,7 +545,6 @@ const Portfolio = () => {
           </div>
         </article>
         <article className="portfolio__item">
-        <img src={IMG40} alt="" className="coming__soon"/>
           <div className="portfolio__item-image">
             <img src={IMG38} alt="" />
           </div>
