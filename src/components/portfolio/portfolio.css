@@ -32,8 +32,9 @@
     margin-bottom: 1rem;
 }
 .coming__soon{
-    width: 30px;
+    width: 50px;
     height: 30px;
+    position: relative;
 }
 /* ================= media queries====================== */
 @media screen and (max-width:1024px){
