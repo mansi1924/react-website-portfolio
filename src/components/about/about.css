@@ -11,7 +11,7 @@
      background: linear-gradient(60deg, transparent, var(--color-bg-variant), transparent);
      display: grid;
      place-items: center;
-     /* margin-bottom: 40px; */
+     margin-bottom: 20px;
  }
 
    .about__flex{
@@ -93,6 +93,7 @@
    }
    .about__flex{
       width: 615px;
+      margin-left:135px
    }
  }
 
@@ -123,5 +124,6 @@
    }
    .about__flex{
       width: 335px;
+      margin-left: 50px;
    }
  }

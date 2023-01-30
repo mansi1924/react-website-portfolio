@@ -38,6 +38,7 @@ import IMG35 from "../../assets/639a4589-39e1-4d8e-8c2e-8e0f3e1461b5.jpeg";
 import IMG36 from '../../assets/53661a0c-252a-4a87-99f1-3fc0937c31d6.jpeg';
 import IMG37 from "../../assets/b5f71c98-2c11-4baa-9440-50d387691668.jpeg";
 import IMG38 from '../../assets/bad69a87-8f1c-4cde-ad4f-e91ceb0dcb7d.jpeg';
+import IMG39 from '../../assets/software king logo new.jpg'
 
 const Portfolio = () => {
   return (
@@ -449,7 +450,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG21} alt="" />
           </div>
-          <h3>Digital Visit Nowing Card</h3>
+          <h3>Digital Visit Card</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.digital.Visit Nowing.card.contact.eco.contact"
@@ -790,6 +791,24 @@ const Portfolio = () => {
             </a>
             <a
               href="http://oxford.thedigitalindia.net/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG39} alt="" />
+          </div>
+          <h3>Software king India</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://softwareking.in/" className="btn">
+            Visit Now
+            </a>
+            <a
+              href="https://softwareking.in/"
               className="btn btn-primary"
               target="_blank"
             >
