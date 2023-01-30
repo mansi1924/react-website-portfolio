@@ -562,7 +562,7 @@ const Portfolio = () => {
       <br />
       <br />
       <h2>Informative & e-Commerce Websites</h2>
-      <div className="container portfolio__container">
+      <div className="portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG25} alt="" />
