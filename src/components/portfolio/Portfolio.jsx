@@ -39,7 +39,7 @@ import IMG36 from '../../assets/53661a0c-252a-4a87-99f1-3fc0937c31d6.jpeg';
 import IMG37 from "../../assets/b5f71c98-2c11-4baa-9440-50d387691668.jpeg";
 import IMG38 from '../../assets/bad69a87-8f1c-4cde-ad4f-e91ceb0dcb7d.jpeg';
 import IMG39 from '../../assets/sofware king logo new.jpg';
-import IMG40 from '../../assets/coming-removebg-preview';
+import IMG40 from '../../assets/coming-removebg-preview.png';
 
 const Portfolio = () => {
   return (
