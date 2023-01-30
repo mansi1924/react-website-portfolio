@@ -546,9 +546,9 @@ const Portfolio = () => {
           </div>
         </article>
         <article className="portfolio__item">
+        <img src={IMG40} alt="" className="coming__soon"/>
           <div className="portfolio__item-image">
             <img src={IMG38} alt="" />
-            <img src={IMG40} alt=""/>
           </div>
           <h3>Social Media App</h3>
           <div className="portfolio__item-cta">

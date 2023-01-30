@@ -31,7 +31,10 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
-
+.coming__soon{
+    width: 30px;
+    height: 30px;
+}
 /* ================= media queries====================== */
 @media screen and (max-width:1024px){
     .portfolio__container{
