@@ -20,6 +20,7 @@
 .portfolio__item-image{
     border-radius: 1.5rem;
     overflow: hidden;
+    position: relative;
 }
 
 .portfolio__item h3{
@@ -32,9 +33,12 @@
     margin-bottom: 1rem;
 }
 .coming__soon{
-    width: 50px;
-    height: 30px;
-    position: relative;
+    height: 101px;
+    width: 84px;
+    top: 5896px;
+    position: absolute;
+    z-index: 9;
+    left: 595px;
 }
 /* ================= media queries====================== */
 @media screen and (max-width:1024px){
