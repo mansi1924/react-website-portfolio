@@ -27,7 +27,7 @@ const Footer = () => {
         <a href='https://twitter.com/thdigitalindia'><IoLogoTwitter/></a>
         <a href="https://wa.me/8751878878" target="_blank"><BsWhatsapp/></a>
         <a href="https://www.linkedin.com/in/thedigitalindia/" target="_blank"><BsLinkedin/></a>
-        <a href="https://www.tdionlineservices.in/" target="_blank"><TfiGoogle/></a>
+        <a href="https://g.co/kgs/so8F6Q" target="_blank"><TfiGoogle/></a>
         <a href="https://in.pinterest.com/thedigitalindia_in/" target="_blank"><BsPinterest/></a>
       </div>
 
