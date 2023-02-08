@@ -55,7 +55,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.emsplus.ambulance.booking.online.jaipur.rajasthan.india.ems.plus"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -77,6 +77,7 @@ const Portfolio = () => {
             <a
               href="https://play.google.com/store/apps/details?id=com.emsplus.ambulance.booking.online.jaipur.rajasthan.india.ems.drivers"
               className="btn"
+              target="_blank"
             >
                Visit Now Now
             </a>
@@ -97,7 +98,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.p.esthetico.clinic.hair.body.skin.pestheticoclinic"
-              className="btn"
+              className="btn" target="_blank"
             >
                Visit Now Now
             </a>
@@ -118,7 +119,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.dariyamilk.dairy.product"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -139,7 +140,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.dariya.milk.product.driver"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -160,7 +161,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.add.book.classified.tdi.online.app.search.business.shop.nearby.addbook"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -181,7 +182,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.seastone"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -202,7 +203,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.tdi.online.services.the.digital.india.lab.test.app"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -223,7 +224,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.firestudio.projecttaskmgmt"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -244,7 +245,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.tdi.online.services.software.king.matrimony.marriage.pasand.love.find.partner.partner.app"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -263,7 +264,7 @@ const Portfolio = () => {
           </div>
           <h3>Scrap Collection User App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://play.google.com/store/apps/details?id=com.cgi.cleanandgreenindia.clean_and_green_india" className="btn">
+            <a href="https://play.google.com/store/apps/details?id=com.cgi.cleanandgreenindia.clean_and_green_india" className="btn" target="_blank">
               Visit Now
             </a>
             <a href="https://play.google.com/store/apps/details?id=com.cgi.cleanandgreenindia.clean_and_green_india" className="btn btn-primary" target="_blank">
@@ -277,7 +278,7 @@ const Portfolio = () => {
           </div>
           <h3>Scrap Collection Partner App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://play.google.com/store/apps/details?id=com.cleanandgreenindia.cgi_shop_partner" className="btn">
+            <a href="https://play.google.com/store/apps/details?id=com.cleanandgreenindia.cgi_shop_partner" className="btn" target="_blank">
               Visit Now
             </a>
             <a href="https://play.google.com/store/apps/details?id=com.cleanandgreenindia.cgi_shop_partner" className="btn btn-primary" target="_blank">
@@ -293,7 +294,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.the.quality.test.tdi.services"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -312,7 +313,7 @@ const Portfolio = () => {
           </div>
           <h3>Home Service Booking</h3>
           <div className="portfolio__item-cta">
-            <a href="" className="btn">
+            <a href="" className="btn" target="_blank">
               Visit Now
             </a>
             <a href="" className="btn btn-primary" target="_blank">
@@ -328,7 +329,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.worldover.sea.shipping.service"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -349,7 +350,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.best.coworking.office.space.listing.nearby.rent.sale.finder.property&hl=en"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -370,7 +371,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.apacres.www"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -391,7 +392,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.student.plus.tdi.services"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -412,7 +413,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.the.digital.india.school.tdi"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -433,7 +434,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.institute.solutions"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -454,7 +455,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.digital.Visit Nowing.card.contact.eco.contact"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -475,7 +476,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.crm"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -496,7 +497,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.tdi.e.attendance.management.tdi.eattendance"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -517,7 +518,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.visitor.software.app.gateman.frontdesk.visitor.management"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -534,23 +535,9 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG18} alt="" />
           </div>
-          <h3>Quality Test App</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://thequalitytest.in/" className="btn">
-              Visit Now
-            </a>
-            <a href="https://thequalitytest.in/" className="btn btn-primary" target="_blank">
-              Live Demo
-            </a>
-          </div>
-        </article>
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={IMG18} alt="" />
-          </div>
           <h3>Doctor/Hospital Booking</h3>
           <div className="portfolio__item-cta">
-            <a href="" className="btn">
+            <a href="" className="btn" target="_blank">
               Visit Now
             </a>
             <a href="" className="btn btn-primary" target="_blank">
@@ -564,7 +551,7 @@ const Portfolio = () => {
           </div>
           <h3>Social Media App</h3>
           <div className="portfolio__item-cta">
-            <a href="" className="btn">
+            <a href="" className="btn" target="_blank">
               Visit Now
             </a>
             <a href="" className="btn btn-primary" target="_blank">
@@ -585,7 +572,7 @@ const Portfolio = () => {
           </div>
           <h3>Clothing Website</h3>
           <div className="portfolio__item-cta">
-            <a href="https://archoo.in/" className="btn">
+            <a href="https://archoo.in/" className="btn" target="_blank">
               Visit Now
             </a>
             <a
@@ -603,7 +590,7 @@ const Portfolio = () => {
           </div>
           <h3>Jwelsy</h3>
           <div className="portfolio__item-cta">
-            <a href="https://jwelsy.com/" className="btn">
+            <a href="https://jwelsy.com/" className="btn" target="_blank">
               Visit Now
             </a>
             <a
@@ -621,7 +608,7 @@ const Portfolio = () => {
           </div>
           <h3>Electrical Item</h3>
           <div className="portfolio__item-cta">
-            <a href="https://elctro.in/" className="btn">
+            <a href="https://elctro.in/" className="btn" target="_blank">
               Visit Now
             </a>
             <a
@@ -639,7 +626,7 @@ const Portfolio = () => {
           </div>
           <h3>Import & Export Services</h3>
           <div className="portfolio__item-cta">
-            <a href="https://s2mconsulting.in/" className="btn">
+            <a href="https://s2mconsulting.in/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -657,7 +644,7 @@ const Portfolio = () => {
           </div>
           <h3>Matrimonial Website</h3>
           <div className="portfolio__item-cta">
-            <a href="https://pasand.app/" className="btn">
+            <a href="https://pasand.app/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -675,7 +662,7 @@ const Portfolio = () => {
           </div>
           <h3>CA Services Website</h3>
           <div className="portfolio__item-cta">
-            <a href="https://rajonlineservice.com/" className="btn">
+            <a href="https://rajonlineservice.com/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -693,7 +680,7 @@ const Portfolio = () => {
           </div>
           <h3>Shree Dev Consultancy</h3>
           <div className="portfolio__item-cta">
-            <a href="https://shreedevconsultancy.com/" className="btn">
+            <a href="https://shreedevconsultancy.com/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -711,7 +698,7 @@ const Portfolio = () => {
           </div>
           <h3>Teaching Website</h3>
           <div className="portfolio__item-cta">
-            <a href="https://specialtech.in/" className="btn">
+            <a href="https://specialtech.in/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -729,7 +716,7 @@ const Portfolio = () => {
           </div>
           <h3>Handicraft Website</h3>
           <div className="portfolio__item-cta">
-            <a href="https://cottagehandicraftindia.com/" className="btn">
+            <a href="https://cottagehandicraftindia.com/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -747,7 +734,7 @@ const Portfolio = () => {
           </div>
           <h3>Jewellery Website</h3>
           <div className="portfolio__item-cta">
-            <a href="https://indiangemsandjewels.in/" className="btn">
+            <a href="https://indiangemsandjewels.in/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -765,7 +752,7 @@ const Portfolio = () => {
           </div>
           <h3>Property Listing Website</h3>
           <div className="portfolio__item-cta">
-            <a href="https://helloproperty.in/" className="btn">
+            <a href="https://helloproperty.in/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -783,7 +770,7 @@ const Portfolio = () => {
           </div>
           <h3>Brain Bench</h3>
           <div className="portfolio__item-cta">
-            <a href="https://brainbench.org/" className="btn">
+            <a href="https://brainbench.org/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -801,11 +788,11 @@ const Portfolio = () => {
           </div>
           <h3>Oxford International Academy</h3>
           <div className="portfolio__item-cta">
-            <a href="http://oxford.thedigitalindia.net/" className="btn">
+            <a href="https://oxfordinternationalacademy.in/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
-              href="http://oxford.thedigitalindia.net/"
+              href="https://oxfordinternationalacademy.in/"
               className="btn btn-primary"
               target="_blank"
             >
@@ -819,7 +806,7 @@ const Portfolio = () => {
           </div>
           <h3>Software king India</h3>
           <div className="portfolio__item-cta">
-            <a href="https://softwareking.in/" className="btn">
+            <a href="https://softwareking.in/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -839,7 +826,7 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a
               href="https://jainsaurabh.tdionlineservices.com/"
-              className="btn"
+              className="btn" target="_blank"
             >
               Visit Now
             </a>
@@ -858,7 +845,7 @@ const Portfolio = () => {
           </div>
           <h3>Gamce Medical Services</h3>
           <div className="portfolio__item-cta">
-            <a href="https://gamcamedicalservices.com/" className="btn">
+            <a href="https://gamcamedicalservices.com/" className="btn" target="_blank">
             Visit Now
             </a>
             <a
@@ -866,6 +853,20 @@ const Portfolio = () => {
               className="btn btn-primary"
               target="_blank"
             >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG11} alt="" />
+          </div>
+          <h3>The Quality Test</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://thequalitytest.in/" className="btn" target="_blank">
+              Visit Now
+            </a>
+            <a href="https://thequalitytest.in/" className="btn btn-primary" target="_blank">
               Live Demo
             </a>
           </div>
