@@ -861,7 +861,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG11} alt="" />
           </div>
-          <h3>The Quality Test</h3>
+          <h3>The Quality Test Software</h3>
           <div className="portfolio__item-cta">
             <a href="https://thequalitytest.in/" className="btn" target="_blank">
               Visit Now
