@@ -534,6 +534,20 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG18} alt="" />
           </div>
+          <h3>Quality Test App</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://thequalitytest.in/" className="btn">
+              Visit Now
+            </a>
+            <a href="https://thequalitytest.in/" className="btn btn-primary" target="_blank">
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG18} alt="" />
+          </div>
           <h3>Doctor/Hospital Booking</h3>
           <div className="portfolio__item-cta">
             <a href="" className="btn">
@@ -558,6 +572,7 @@ const Portfolio = () => {
             </a>
           </div>
         </article>
+        
       </div>
       <br />
       <br />
