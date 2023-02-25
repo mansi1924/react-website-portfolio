@@ -39,6 +39,8 @@ import IMG36 from "../../assets/53661a0c-252a-4a87-99f1-3fc0937c31d6.jpeg";
 import IMG37 from "../../assets/b5f71c98-2c11-4baa-9440-50d387691668.jpeg";
 import IMG38 from "../../assets/bad69a87-8f1c-4cde-ad4f-e91ceb0dcb7d.jpeg";
 import IMG39 from "../../assets/sofware king logo new.jpg";
+import IMG40 from "../../assets/IVR-System.jpg";
+import IMG41 from "../../assets8e5b6dec3edc99e8cf6b363bbe68ea69e1d22c7b.png";
 
 const Portfolio = () => {
   return (
@@ -48,19 +50,19 @@ const Portfolio = () => {
       <div className="container portfolio__container">
       <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG22} alt="" />
+            <img src={IMG40} alt="" />
           </div>
-          <h3>The Digital India CRM Software</h3>
+          <h3>IVR System</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.crm"
+              href=""
               className="btn"
               target="_blank"
             >
               Visit Now
             </a>
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.crm"
+              href=""
               className="btn btn-primary"
               target="_blank"
             >
@@ -70,19 +72,19 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG23} alt="" />
+            <img src={IMG41} alt="" />
           </div>
-          <h3>Staff e-Attendance, Payroll & Meetings</h3>
+          <h3>SMS</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.e.attendance.management.tdi.eattendance"
+              href=""
               className="btn"
               target="_blank"
             >
               Visit Now
             </a>
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.e.attendance.management.tdi.eattendance"
+              href=""
               className="btn btn-primary"
               target="_blank"
             >
@@ -92,19 +94,19 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG24} alt="" />
+            <img src={} alt="" />
           </div>
           <h3>Visitor App</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.visitor.software.app.gateman.frontdesk.visitor.management"
+              href=""
               className="btn"
               target="_blank"
             >
               Visit Now
             </a>
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.visitor.software.app.gateman.frontdesk.visitor.management"
+              href=""
               className="btn btn-primary"
               target="_blank"
             >
