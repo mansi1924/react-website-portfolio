@@ -53,7 +53,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG41} alt="" className="itmes"/>
           </div>
-          <h3>SMS</h3>
+          <h3>Bulk SMS Services</h3>
           <div className="portfolio__item-cta">
             <a
               href=""
@@ -75,7 +75,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG40} alt="" className="itmes"/>
           </div>
-          <h3>IVR System</h3>
+          <h3>IVR/Toll Free Service</h3>
           <div className="portfolio__item-cta">
             <a
               href=""
@@ -97,7 +97,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG42} alt="" />
           </div>
-          <h3>Missed Call</h3>
+          <h3>Missed Call Services</h3>
           <div className="portfolio__item-cta">
             <a
               href=""
