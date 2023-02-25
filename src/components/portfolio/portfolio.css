@@ -32,6 +32,10 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
+
+.itmes{
+    height: 295px !important;
+}
 /* ================= media queries====================== */
 @media screen and (max-width:1024px){
     .portfolio__container{
