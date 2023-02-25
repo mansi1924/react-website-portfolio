@@ -48,7 +48,7 @@ const Portfolio = () => {
     <h5>Our Recent Work</h5>
       <h2>TDI Services</h2>
       <div className="container portfolio__container">
-      <article className="portfolio__item">
+        <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG40} alt="" className="itmes"/>
           </div>
@@ -71,7 +71,7 @@ const Portfolio = () => {
           </div>
         </article>
         <article className="portfolio__item">
-          <div className="portfolio__item-image itmes">
+          <div className="portfolio__item-image">
             <img src={IMG41} alt="" className="itmes"/>
           </div>
           <h3>SMS</h3>
