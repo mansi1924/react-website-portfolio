@@ -48,8 +48,8 @@ const Portfolio = () => {
     <h5>Our Recent Work</h5>
       <h2>TDI Services</h2>
       <div className="container portfolio__container">
-      <article className="portfolio__item itmes">
-          <div className="portfolio__item-image">
+      <article className="portfolio__item">
+          <div className="portfolio__item-image itmes">
             <img src={IMG40} alt="" />
           </div>
           <h3>IVR System</h3>
@@ -70,8 +70,8 @@ const Portfolio = () => {
             </a>
           </div>
         </article>
-        <article className="portfolio__item itmes">
-          <div className="portfolio__item-image">
+        <article className="portfolio__item">
+          <div className="portfolio__item-image itmes">
             <img src={IMG41} alt="" />
           </div>
           <h3>SMS</h3>
