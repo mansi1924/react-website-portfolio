@@ -92,7 +92,7 @@ const Portfolio = () => {
             </a>
           </div>
         </article>
-        <article className="portfolio__item">
+        {/* <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={} alt="" />
           </div>
@@ -113,7 +113,7 @@ const Portfolio = () => {
               Live Demo
             </a>
           </div>
-        </article>
+        </article> */}
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG19} alt="" />
