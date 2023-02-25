@@ -35,6 +35,8 @@
 
 .itmes{
     height: 295px !important;
+    width: 100%;
+    object-fit: fill;
 }
 /* ================= media queries====================== */
 @media screen and (max-width:1024px){
