@@ -48,6 +48,72 @@ const Portfolio = () => {
       <div className="container portfolio__container">
       <article className="portfolio__item">
           <div className="portfolio__item-image">
+            <img src={IMG22} alt="" />
+          </div>
+          <h3>The Digital India CRM Software</h3>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.crm"
+              className="btn"
+              target="_blank"
+            >
+              Visit Now
+            </a>
+            <a
+              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.crm"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG23} alt="" />
+          </div>
+          <h3>Staff e-Attendance, Payroll & Meetings</h3>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://play.google.com/store/apps/details?id=com.tdi.e.attendance.management.tdi.eattendance"
+              className="btn"
+              target="_blank"
+            >
+              Visit Now
+            </a>
+            <a
+              href="https://play.google.com/store/apps/details?id=com.tdi.e.attendance.management.tdi.eattendance"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG24} alt="" />
+          </div>
+          <h3>Visitor App</h3>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.visitor.software.app.gateman.frontdesk.visitor.management"
+              className="btn"
+              target="_blank"
+            >
+              Visit Now
+            </a>
+            <a
+              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.visitor.software.app.gateman.frontdesk.visitor.management"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
             <img src={IMG19} alt="" />
           </div>
           <h3>School App Parent</h3>
