@@ -41,6 +41,7 @@ import IMG38 from "../../assets/bad69a87-8f1c-4cde-ad4f-e91ceb0dcb7d.jpeg";
 import IMG39 from "../../assets/sofware king logo new.jpg";
 import IMG40 from "../../assets/IVR-System.jpg";
 import IMG41 from "../../assets/8e5b6dec3edc99e8cf6b363bbe68ea69e1d22c7b.jpg";
+import IMG42 from "../../assets/558-5585030_give-a-missed-call-png-transparent-png.png"
 
 const Portfolio = () => {
   return (
@@ -48,6 +49,28 @@ const Portfolio = () => {
     <h5>Our Recent Work</h5>
       <h2>TDI Services</h2>
       <div className="container portfolio__container">
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG41} alt="" className="itmes"/>
+          </div>
+          <h3>SMS</h3>
+          <div className="portfolio__item-cta">
+            <a
+              href=""
+              className="btn"
+              target="_blank"
+            >
+              Visit Now
+            </a>
+            <a
+              href=""
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG40} alt="" className="itmes"/>
@@ -72,9 +95,9 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG41} alt="" className="itmes"/>
+            <img src={IMG42} alt="" />
           </div>
-          <h3>SMS</h3>
+          <h3>Missed Call</h3>
           <div className="portfolio__item-cta">
             <a
               href=""
@@ -92,28 +115,6 @@ const Portfolio = () => {
             </a>
           </div>
         </article>
-        {/* <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={} alt="" />
-          </div>
-          <h3>Visitor App</h3>
-          <div className="portfolio__item-cta">
-            <a
-              href=""
-              className="btn"
-              target="_blank"
-            >
-              Visit Now
-            </a>
-            <a
-              href=""
-              className="btn btn-primary"
-              target="_blank"
-            >
-              Live Demo
-            </a>
-          </div>
-        </article> */}
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG19} alt="" />
