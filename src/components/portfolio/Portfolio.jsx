@@ -188,14 +188,14 @@ const Portfolio = () => {
           <h3>The Digital India CRM Software</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.crm"
+              href="https://tdionlineservices.com/crm-software/"
               className="btn"
               target="_blank"
             >
               Visit Now
             </a>
             <a
-              href="https://tdionlineservices.com/crm-software/"
+              href="https://youtu.be/ukze1FnCELU"
               className="btn btn-primary"
               target="_blank"
             >
