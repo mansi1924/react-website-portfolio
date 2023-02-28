@@ -46,8 +46,7 @@ footer a{
     border: 1px solid transparent;
 }
 
-.footer__socials a:hover,
-.footer__company .footer__company_table ul li:hover{
+.footer__socials a:hover{
     background: transparent;
     color: var(--color-bg);
     border-color: var(--color-bg);
@@ -66,6 +65,12 @@ footer a{
 .footer__company .footer__company_table ul li{
     list-style: none;
     color: var(--color-bg);
+}
+
+.footer__company .footer__company_table ul li:hover{
+    background: transparent;
+    color: var(--color-bg);
+    border-color: var(--color-bg);
 }
 
 /* ================== media queries==================== */
