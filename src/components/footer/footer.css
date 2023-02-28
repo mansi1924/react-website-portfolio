@@ -59,7 +59,7 @@ footer a{
 
 .footer__company{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 /* ================== media queries==================== */
