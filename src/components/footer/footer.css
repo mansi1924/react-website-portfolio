@@ -57,6 +57,11 @@ footer a{
     color: var(--color-bg);
 }
 
+.footer__company{
+    display: flex;
+    justify-content: center;
+}
+
 /* ================== media queries==================== */
 @media screen and (max-width: 600px) {
     .permalinks {

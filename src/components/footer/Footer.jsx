@@ -31,6 +31,14 @@ const Footer = () => {
         <a href="https://in.pinterest.com/thedigitalindia_in/" target="_blank"><BsPinterest/></a>
       </div>
 
+      <div className='footer__company'>
+        <ul>
+          <li>bulk sms company in Jaipur</li>
+          <li>bulk sms service provider</li>
+          <li>bulk sms marketing company in Jaipur</li>
+        </ul>
+      </div>
+
       <div className='footer__copyright'>
         <small>&copy; TDIonlineservices. All rights reserved </small>
       </div>
