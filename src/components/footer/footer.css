@@ -62,6 +62,11 @@ footer a{
     justify-content: space-evenly;
 }
 
+.footer__company .footer__company_table ul li{
+    list-style: none;
+    color: var(--color-bg);
+}
+
 /* ================== media queries==================== */
 @media screen and (max-width: 600px) {
     .permalinks {
