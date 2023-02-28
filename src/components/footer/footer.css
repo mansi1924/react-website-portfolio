@@ -60,7 +60,9 @@ footer a{
 .footer__company{
     display: flex;
     justify-content: space-around;
-    margin-bottom: 1.2rem;
+    margin-bottom: 1.8rem;
+    margin-left: 117px;
+    margin-right: 30px;
 }
 
 .footer__company .footer__company_table ul li{
