@@ -60,40 +60,40 @@ const Footer = () => {
 
       <div className="footer__company">
         <div className="footer__company_table">
-          <ul>
+          <ul className="permalinks">
             <li>bulk sms company in Jaipur</li>
             <li>bulk sms service provider</li>
             <li>bulk sms marketing company in Jaipur</li>
           </ul>
-          <ul>
+          <ul className="permalinks">
             <li>IVR service provider in Jaipur</li>
             <li>Tollfree Number service provider in Jaipur</li>
           </ul>
         </div>
         <div className="footer__company_table">
-          <ul>
+          <ul className="permalinks">
             <li>CRM software company in Jaipur</li>
             <li>CRM software provider in Jaipur</li>
           </ul>
-          <ul>
+          <ul className="permalinks">
             <li>hrm software company in Jaipur</li>
             <li>hrm software provider in Jaipur</li>
           </ul>
-          <ul>
+          <ul className="permalinks">
             <li>institute software company in Jaipur</li>
             <li>institute software provider in Jaipur</li>
           </ul>
         </div>
         <div className="footer__company_table">
-          <ul>
+          <ul className="permalinks">
             <li>school software company in Jaipur</li>
             <li>school software provider in Jaipur</li>
           </ul>
-          <ul>
+          <ul className="permalinks">
             <li>visitor software company in Jaipur</li>
             <li>visitor software provider in Jaipur</li>
           </ul>
-          <ul>
+          <ul className="permalinks">
             <li>website development company in Jaipur</li>
             <li>e-commerce website development company in Jaipur</li>
             <li>mobile app development company in Jaipur</li>
