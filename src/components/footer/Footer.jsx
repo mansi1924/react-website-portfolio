@@ -68,6 +68,7 @@ const Footer = () => {
           <ul>
             <li>IVR service provider in Jaipur</li>
             <li>Tollfree Number service provider in Jaipur</li>
+            <li>website development company in Jaipur</li>
           </ul>
         </div>
         <div className="footer__company_table">
@@ -94,7 +95,6 @@ const Footer = () => {
             <li>visitor software provider in Jaipur</li>
           </ul>
           <ul>
-            <li>website development company in Jaipur</li>
             <li>e-commerce website development company in Jaipur</li>
             <li>mobile app development company in Jaipur</li>
           </ul>
