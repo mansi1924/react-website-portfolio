@@ -59,7 +59,7 @@ footer a{
 
 .footer__company{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .footer__company .footer__company_table ul li{
