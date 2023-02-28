@@ -65,12 +65,11 @@ footer a{
 .footer__company .footer__company_table ul li{
     list-style: none;
     color: var(--color-bg);
+    cursor: pointer;
 }
 
 .footer__company .footer__company_table ul li:hover{
-    background: transparent;
-    color: var(--color-bg);
-    border-color: var(--color-bg);
+    color: var(--color-white);
 }
 
 /* ================== media queries==================== */
