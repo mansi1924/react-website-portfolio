@@ -123,10 +123,10 @@ img{
         width: var(--container-width-md);
     }
     section{
-        /* margin: 0; */
+        margin: 0;
     }
     section{
-        /* margin-top: 6rem; */
+        margin-top: 6rem;
     }
     
 }
