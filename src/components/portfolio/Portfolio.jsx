@@ -48,7 +48,7 @@ const Portfolio = () => {
     <section id="portfolio">
     <h5>Our Recent Work</h5>
       <h2>TDI Services</h2>
-      {/* <div className="container portfolio__container">
+      <div className="container portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG41} alt="" className="itmes"/>
@@ -247,7 +247,7 @@ const Portfolio = () => {
             </a>
           </div>
         </article>
-      </div> */}
+      </div>
       <br />
       <br />
       <br />
