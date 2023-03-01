@@ -88,5 +88,7 @@ footer a{
 
     .footer__company{
         flex-direction: column;
+        margin-left: 0;
+        margin-right: 0;
     }
 }
