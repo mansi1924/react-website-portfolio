@@ -129,4 +129,7 @@
    .about__flex{
       width: 335px;
    }
+   .about{
+      margin: 0;
+   }
  }
