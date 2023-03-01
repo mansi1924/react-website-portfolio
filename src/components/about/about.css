@@ -130,6 +130,6 @@
       width: 335px;
    }
    .about{
-      margin: 0;
+      margin: 0px !important;
    }
  }
