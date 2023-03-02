@@ -210,14 +210,14 @@ const Portfolio = () => {
           <h3>Staff e-Attendance, Payroll & Meetings</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.e.attendance.management.tdi.eattendance"
+              href="https://tdionlineservices.com/hrm-software/"
               className="btn"
               target="_blank"
             >
               Visit Now
             </a>
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.e.attendance.management.tdi.eattendance"
+              href="https://www.youtube.com/watch?v=qsJL7ctAV10"
               className="btn btn-primary"
               target="_blank"
             >
@@ -232,14 +232,14 @@ const Portfolio = () => {
           <h3>Visitor App</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.visitor.software.app.gateman.frontdesk.visitor.management"
+              href="https://tdionlineservices.com/visitor-app-software/"
               className="btn"
               target="_blank"
             >
               Visit Now
             </a>
             <a
-              href="https://play.google.com/store/apps/details?id=com.tdi.the.digital.india.visitor.software.app.gateman.frontdesk.visitor.management"
+              href="https://www.youtube.com/watch?v=JyPlwsxVFjg"
               className="btn btn-primary"
               target="_blank"
             >
