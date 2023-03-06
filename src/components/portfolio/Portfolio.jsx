@@ -56,14 +56,14 @@ const Portfolio = () => {
           <h3>Bulk SMS Services</h3>
           <div className="portfolio__item-cta">
             <a
-              href=""
+              href="https://tdionlineservices.com/bulksmsmarketing/"
               className="btn"
               target="_blank"
             >
               Visit Now
             </a>
             <a
-              href=""
+              href="https://www.youtube.com/watch?v=FuEZRyxfkL0&feature=youtu.be"
               className="btn btn-primary"
               target="_blank"
             >
@@ -188,7 +188,7 @@ const Portfolio = () => {
           <h3>The Digital India CRM Software</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://tdionlineservices.com/crm-software/"
+              href="https://tdionlineservices.com/crmsoftware/"
               className="btn"
               target="_blank"
             >
@@ -210,7 +210,7 @@ const Portfolio = () => {
           <h3>Staff e-Attendance, Payroll & Meetings</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://tdionlineservices.com/hrm-software/"
+              href="https://tdionlineservices.com/hrmsoftware/"
               className="btn"
               target="_blank"
             >
@@ -232,7 +232,7 @@ const Portfolio = () => {
           <h3>Visitor App</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://tdionlineservices.com/visitor-app-software/"
+              href="https://tdionlineservices.com/visitorsoftware/"
               className="btn"
               target="_blank"
             >
