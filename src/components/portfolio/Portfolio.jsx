@@ -100,14 +100,14 @@ const Portfolio = () => {
           <h3>Missed Call Services</h3>
           <div className="portfolio__item-cta">
             <a
-              href=""
+              href="https://tdionlineservices.com/voicecallservice/"
               className="btn"
               target="_blank"
             >
               Visit Now
             </a>
             <a
-              href=""
+              href="https://youtu.be/Tyh8p9eHd2o"
               className="btn btn-primary"
               target="_blank"
             >
@@ -166,14 +166,14 @@ const Portfolio = () => {
           <h3>Digital Visit Card</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://play.google.com/store/apps/details?id=com.digital.Visit Nowing.card.contact.eco.contact"
+              href="https://play.google.com/store/apps/details?id=com.digital.visiting.card.contact.eco.contact"
               className="btn"
               target="_blank"
             >
               Visit Now
             </a>
             <a
-              href="https://play.google.com/store/apps/details?id=com.digital.Visit Nowing.card.contact.eco.contact"
+              href="https://play.google.com/store/apps/details?id=com.digital.visiting.card.contact.eco.contact"
               className="btn btn-primary"
               target="_blank"
             >
